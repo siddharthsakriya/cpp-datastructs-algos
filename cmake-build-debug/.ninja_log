@@ -1,0 +1,9 @@
+# ninja log v5
+1125	1212	1708285029201737323	cpp_datastructs_algos	31fac612c60a2629
+6	1125	1708285029112368934	CMakeFiles/cpp_datastructs_algos.dir/main.cpp.o	dfc30e40a1af8fce
+1	133	1708285879728978091	build.ninja	584b4f996d554349
+0	107	1708285879728978091	build.ninja	584b4f996d554349
+0	1517	1708285881253811922	CMakeFiles/cpp_datastructs_algos.dir/algorithms/basic_sorting.cpp.o	1ac9b3a47188db3b
+1518	1639	1708285881378790290	cpp_datastructs_algos	3aad7017f22f10ba
+5	1620	1708286321045974111	CMakeFiles/cpp_datastructs_algos.dir/algorithms/basic_sorting.cpp.o	1ac9b3a47188db3b
+1620	1737	1708286321167196954	cpp_datastructs_algos	3aad7017f22f10ba
